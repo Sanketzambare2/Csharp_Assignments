@@ -1,0 +1,7 @@
+D:\Wipro_C#_Programs\Student_Data\Student_Data\bin\Debug\Student_Data.exe.config
+D:\Wipro_C#_Programs\Student_Data\Student_Data\bin\Debug\Student_Data.exe
+D:\Wipro_C#_Programs\Student_Data\Student_Data\bin\Debug\Student_Data.pdb
+D:\Wipro_C#_Programs\Student_Data\Student_Data\obj\Debug\Student_Data.csproj.AssemblyReference.cache
+D:\Wipro_C#_Programs\Student_Data\Student_Data\obj\Debug\Student_Data.csproj.CoreCompileInputs.cache
+D:\Wipro_C#_Programs\Student_Data\Student_Data\obj\Debug\Student_Data.exe
+D:\Wipro_C#_Programs\Student_Data\Student_Data\obj\Debug\Student_Data.pdb

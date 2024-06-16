@@ -1,0 +1,7 @@
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\bin\Debug\Hosital-Management.exe.config
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\bin\Debug\Hosital-Management.exe
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\bin\Debug\Hosital-Management.pdb
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\obj\Debug\Hosital-Management.csproj.AssemblyReference.cache
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\obj\Debug\Hosital-Management.csproj.CoreCompileInputs.cache
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\obj\Debug\Hosital-Management.exe
+D:\Wipro_C#_Programs\Hosital-Management\Hosital-Management\obj\Debug\Hosital-Management.pdb

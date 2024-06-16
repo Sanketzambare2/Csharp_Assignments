@@ -1,0 +1,7 @@
+D:\Wipro_C#_Programs\Order_Items\Order_Items\bin\Debug\Order_Items.exe.config
+D:\Wipro_C#_Programs\Order_Items\Order_Items\bin\Debug\Order_Items.exe
+D:\Wipro_C#_Programs\Order_Items\Order_Items\bin\Debug\Order_Items.pdb
+D:\Wipro_C#_Programs\Order_Items\Order_Items\obj\Debug\Order_Items.csproj.AssemblyReference.cache
+D:\Wipro_C#_Programs\Order_Items\Order_Items\obj\Debug\Order_Items.csproj.CoreCompileInputs.cache
+D:\Wipro_C#_Programs\Order_Items\Order_Items\obj\Debug\Order_Items.exe
+D:\Wipro_C#_Programs\Order_Items\Order_Items\obj\Debug\Order_Items.pdb

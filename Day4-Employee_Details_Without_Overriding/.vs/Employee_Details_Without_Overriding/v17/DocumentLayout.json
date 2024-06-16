@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|d:\\wipro_c#_programs\\employee_details_without_overriding\\employee_details_without_overriding\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|solutionrelative:employee_details_without_overriding\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|d:\\wipro_c#_programs\\employee_details_without_overriding\\employee_details_without_overriding\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|solutionrelative:employee_details_without_overriding\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|d:\\wipro_c#_programs\\employee_details_without_overriding\\employee_details_without_overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|solutionrelative:employee_details_without_overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|d:\\wipro_c#_programs\\employee_details_without_overriding\\employee_details_without_overriding\\delivery_partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CCC083-C432-4D44-BE09-F6C70FECAE05}|Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding.csproj|solutionrelative:employee_details_without_overriding\\delivery_partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delivery_Partner.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Delivery_Partner.cs",
+              "RelativeDocumentMoniker": "Employee_Details_Without_Overriding\\Delivery_Partner.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Delivery_Partner.cs",
+              "RelativeToolTip": "Employee_Details_Without_Overriding\\Delivery_Partner.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:32:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Manager.cs",
+              "RelativeDocumentMoniker": "Employee_Details_Without_Overriding\\Manager.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Manager.cs",
+              "RelativeToolTip": "Employee_Details_Without_Overriding\\Manager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:30:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Details_Without_Overriding\\Program.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Program.cs",
+              "RelativeToolTip": "Employee_Details_Without_Overriding\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:30:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Details_Without_Overriding\\Employee.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Employee_Details_Without_Overriding\\Employee_Details_Without_Overriding\\Employee.cs",
+              "RelativeToolTip": "Employee_Details_Without_Overriding\\Employee.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:32:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

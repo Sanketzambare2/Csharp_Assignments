@@ -1,0 +1,7 @@
+D:\Wipro_C#_Programs\File_Task2\File_Task2\bin\Debug\File_Task2.exe.config
+D:\Wipro_C#_Programs\File_Task2\File_Task2\bin\Debug\File_Task2.exe
+D:\Wipro_C#_Programs\File_Task2\File_Task2\bin\Debug\File_Task2.pdb
+D:\Wipro_C#_Programs\File_Task2\File_Task2\obj\Debug\File_Task2.csproj.AssemblyReference.cache
+D:\Wipro_C#_Programs\File_Task2\File_Task2\obj\Debug\File_Task2.csproj.CoreCompileInputs.cache
+D:\Wipro_C#_Programs\File_Task2\File_Task2\obj\Debug\File_Task2.exe
+D:\Wipro_C#_Programs\File_Task2\File_Task2\obj\Debug\File_Task2.pdb

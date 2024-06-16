@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_C#_Programs\\Student_Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A21178B8-B5B6-42EE-8A24-D3F2FBF4A8BB}|Student_Data\\Student_Data.csproj|d:\\wipro_c#_programs\\student_data\\student_data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21178B8-B5B6-42EE-8A24-D3F2FBF4A8BB}|Student_Data\\Student_Data.csproj|solutionrelative:student_data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21178B8-B5B6-42EE-8A24-D3F2FBF4A8BB}|Student_Data\\Student_Data.csproj|D:\\Wipro_C#_Programs\\Student_Data\\student_data\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21178B8-B5B6-42EE-8A24-D3F2FBF4A8BB}|Student_Data\\Student_Data.csproj|solutionrelative:student_data\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Student_Data\\Student_Data\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Student_Data\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Student_Data\\Student_Data\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Student_Data\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:19:11.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Student_Data\\Student_Data\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Data\\Program.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Student_Data\\Student_Data\\Program.cs",
+              "RelativeToolTip": "Student_Data\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:32:09.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

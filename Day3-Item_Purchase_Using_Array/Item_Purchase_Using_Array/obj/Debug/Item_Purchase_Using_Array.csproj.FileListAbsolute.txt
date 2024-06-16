@@ -1,0 +1,7 @@
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\bin\Debug\Item_Purchase_Using_Array.exe.config
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\bin\Debug\Item_Purchase_Using_Array.exe
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\bin\Debug\Item_Purchase_Using_Array.pdb
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\obj\Debug\Item_Purchase_Using_Array.csproj.AssemblyReference.cache
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\obj\Debug\Item_Purchase_Using_Array.csproj.CoreCompileInputs.cache
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\obj\Debug\Item_Purchase_Using_Array.exe
+D:\Wipro_C#_Programs\Item_Purchase_Using_Array\Item_Purchase_Using_Array\obj\Debug\Item_Purchase_Using_Array.pdb

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_C#_Programs\\Queue_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A2C29E-0BB9-44F3-958E-9DE72A5D361F}|Queue_Assignment\\Queue_Assignment.csproj|d:\\wipro_c#_programs\\queue_assignment\\queue_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A2C29E-0BB9-44F3-958E-9DE72A5D361F}|Queue_Assignment\\Queue_Assignment.csproj|solutionrelative:queue_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_C#_Programs\\Queue_Assignment\\Queue_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Queue_Assignment\\Program.cs",
+              "ToolTip": "D:\\Wipro_C#_Programs\\Queue_Assignment\\Queue_Assignment\\Program.cs",
+              "RelativeToolTip": "Queue_Assignment\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:20:26.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
